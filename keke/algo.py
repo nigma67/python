@@ -3,14 +3,9 @@ def eje1():
     n2 = int(input("Ingresar otro numero"))
     R= n1+n2
     print("El resultado es: ", R)
-    #eje1()
+#eje1()
 
 def eje2():
-    arr=[]
-    for i in range(4):
-        arr.append(int(input("Ingresar un numero: "))
-                   print("El resultado es: ", sum(arr))
-
     n1 = int(input("Ingresar un numero"))
     n2 = int(input("Ingresar otro numero"))
     n3 = int(input("Ingresar otro numero"))
@@ -24,9 +19,9 @@ def eje3():
     lado2 = int(input("ingresar otro numero"))
     R= lado1 + lado2
     print("La superficie es: ", R)
-    #eje3()
+#eje3()
 
 def eje4():
     lados = int(input("Ingresar un numero"))
     print("La superficie es: ", lados)
-    #eje4
+#eje4()
